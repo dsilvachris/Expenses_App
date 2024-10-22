@@ -4,8 +4,11 @@ A simple expense management API built with FastAPI and PostgreSQL. This project 
 
 # Features
 Add expenses with descriptions and amounts
+
 Split expenses among participants (e.g., equally or custom amounts)
+
 Retrieve a list of all expenses
+
 PostgreSQL integration for data persistence
 
 # Prerequisites
